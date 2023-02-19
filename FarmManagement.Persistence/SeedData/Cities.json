@@ -1,0 +1,6422 @@
+[
+  {
+    "CityName": "Bangued",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Boliney",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Bucay",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Bucloc",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Daguioman",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Danglas",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Dolores",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "La Paz",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Lacub",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Lagangilang",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Lagayan",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Langiden",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Licuan-Baay (Licuan)",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Luba",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Malibcong",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Manabo",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Peñarrubia",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Pidigan",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Pilar",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Sallapadan",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "San Isidro",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "San Juan",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "San Quintin",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Tayum",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Tineg",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Tubo",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Villaviciosa",
+    "ProvinceName": "Abra Province"
+  },
+  {
+    "CityName": "Buenavista",
+    "ProvinceName": "Agusan del Norte Province"
+  },
+  {
+    "CityName": "Butuan",
+    "ProvinceName": "Agusan del Norte Province"
+  },
+  {
+    "CityName": "Cabadbaran",
+    "ProvinceName": "Agusan del Norte Province"
+  },
+  {
+    "CityName": "Carmen",
+    "ProvinceName": "Agusan del Norte Province"
+  },
+  {
+    "CityName": "Jabonga",
+    "ProvinceName": "Agusan del Norte Province"
+  },
+  {
+    "CityName": "Kitcharao",
+    "ProvinceName": "Agusan del Norte Province"
+  },
+  {
+    "CityName": "Las Nieves",
+    "ProvinceName": "Agusan del Norte Province"
+  },
+  {
+    "CityName": "Magallanes",
+    "ProvinceName": "Agusan del Norte Province"
+  },
+  {
+    "CityName": "Nasipit",
+    "ProvinceName": "Agusan del Norte Province"
+  },
+  {
+    "CityName": "Remedios T. Romualdez",
+    "ProvinceName": "Agusan del Norte Province"
+  },
+  {
+    "CityName": "Santiago",
+    "ProvinceName": "Agusan del Norte Province"
+  },
+  {
+    "CityName": "Tubay",
+    "ProvinceName": "Agusan del Norte Province"
+  },
+  {
+    "CityName": "Bayugan",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "Bunawan",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "Esperanza",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "La Paz",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "Loreto",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "Prosperidad",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "Rosario",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "San Francisco",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "San Luis",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "Santa Josefa",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "Sibagat",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "Talacogon",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "Trento",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "Veruela",
+    "ProvinceName": "Agusan del Sur Province"
+  },
+  {
+    "CityName": "Altavas",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Balete",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Banga",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Batan",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Buruanga",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Ibajay",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Kalibo",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Lezo",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Libacao",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Madalag",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Makato",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Malay",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Malinao",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Nabas",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "New Washington",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Numancia",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Tangalan",
+    "ProvinceName": "Aklan Province"
+  },
+  {
+    "CityName": "Bacacay",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Camalig",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Daraga (Locsin)",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Guinobatan",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Jovellar",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Legazpi",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Libon",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Ligao",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Malilipot",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Malinao",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Manito",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Oas",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Pio Duran",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Polangui",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Rapu-Rapu",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Santo Domingo",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Tabaco",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Tiwi",
+    "ProvinceName": "Albay Province"
+  },
+  {
+    "CityName": "Anini-y",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Barbaza",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Belison",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Bugasong",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Caluya",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Culasi",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Hamtic",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Laua-an",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Libertad",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Pandan",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Patnongon",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "San Jose de Buenavista",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "San Remigio",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Sebaste",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Sibalom",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Tibiao",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Tobias Fornier (Dao)",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Valderrama",
+    "ProvinceName": "Antique Province"
+  },
+  {
+    "CityName": "Calanasan",
+    "ProvinceName": "Apayao Province"
+  },
+  {
+    "CityName": "Conner",
+    "ProvinceName": "Apayao Province"
+  },
+  {
+    "CityName": "Flora",
+    "ProvinceName": "Apayao Province"
+  },
+  {
+    "CityName": "Kabugao",
+    "ProvinceName": "Apayao Province"
+  },
+  {
+    "CityName": "Luna",
+    "ProvinceName": "Apayao Province"
+  },
+  {
+    "CityName": "Pudtol",
+    "ProvinceName": "Apayao Province"
+  },
+  {
+    "CityName": "Santa Marcela",
+    "ProvinceName": "Apayao Province"
+  },
+  {
+    "CityName": "Baler",
+    "ProvinceName": "Aurora Province"
+  },
+  {
+    "CityName": "Casiguran",
+    "ProvinceName": "Aurora Province"
+  },
+  {
+    "CityName": "Dilasag",
+    "ProvinceName": "Aurora Province"
+  },
+  {
+    "CityName": "Dinalungan",
+    "ProvinceName": "Aurora Province"
+  },
+  {
+    "CityName": "Dingalan",
+    "ProvinceName": "Aurora Province"
+  },
+  {
+    "CityName": "Dipaculao",
+    "ProvinceName": "Aurora Province"
+  },
+  {
+    "CityName": "Maria Aurora",
+    "ProvinceName": "Aurora Province"
+  },
+  {
+    "CityName": "San Luis",
+    "ProvinceName": "Aurora Province"
+  },
+  {
+    "CityName": "Akbar",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Al-Barka",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Hadji Mohammad Ajul",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Hadji Muhtamad",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Isabela City",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Lamitan",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Lantawan",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Maluso",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Sumisip",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Tabuan-Lasa",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Tipo-Tipo",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Tuburan",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Ungkaya Pukan",
+    "ProvinceName": "Basilan Province"
+  },
+  {
+    "CityName": "Abucay",
+    "ProvinceName": "Bataan Province"
+  },
+  {
+    "CityName": "Bagac",
+    "ProvinceName": "Bataan Province"
+  },
+  {
+    "CityName": "Balanga",
+    "ProvinceName": "Bataan Province"
+  },
+  {
+    "CityName": "Dinalupihan",
+    "ProvinceName": "Bataan Province"
+  },
+  {
+    "CityName": "Hermosa",
+    "ProvinceName": "Bataan Province"
+  },
+  {
+    "CityName": "Limay",
+    "ProvinceName": "Bataan Province"
+  },
+  {
+    "CityName": "Mariveles",
+    "ProvinceName": "Bataan Province"
+  },
+  {
+    "CityName": "Morong",
+    "ProvinceName": "Bataan Province"
+  },
+  {
+    "CityName": "Orani",
+    "ProvinceName": "Bataan Province"
+  },
+  {
+    "CityName": "Orion",
+    "ProvinceName": "Bataan Province"
+  },
+  {
+    "CityName": "Pilar",
+    "ProvinceName": "Bataan Province"
+  },
+  {
+    "CityName": "Samal",
+    "ProvinceName": "Bataan Province"
+  },
+  {
+    "CityName": "Basco",
+    "ProvinceName": "Batanes Province"
+  },
+  {
+    "CityName": "Itbayat",
+    "ProvinceName": "Batanes Province"
+  },
+  {
+    "CityName": "Ivana",
+    "ProvinceName": "Batanes Province"
+  },
+  {
+    "CityName": "Mahatao",
+    "ProvinceName": "Batanes Province"
+  },
+  {
+    "CityName": "Sabtang",
+    "ProvinceName": "Batanes Province"
+  },
+  {
+    "CityName": "Uyugan",
+    "ProvinceName": "Batanes Province"
+  },
+  {
+    "CityName": "Agoncillo",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Alitagtag",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Balayan",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Balete",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Batangas City",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Bauan",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Calaca",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Calatagan",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Cuenca",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Ibaan",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Laurel",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Lemery",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Lian",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Lipa",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Lobo",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Mabini",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Malvar",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Mataasnakahoy",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Nasugbu",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Padre Garcia",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Rosario",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "San Jose",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "San Juan",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "San Luis",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "San Nicolas",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "San Pascual",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Santa Teresita",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Santo Tomas",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Taal",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Talisay",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Tanauan",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Taysan",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Tingloy",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Tuy",
+    "ProvinceName": "Batangas Province"
+  },
+  {
+    "CityName": "Atok",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Baguio",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Bakun",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Bokod",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Buguias",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Itogon",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Kabayan",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Kapangan",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Kibungan",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "La Trinidad",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Mankayan",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Sablan",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Tuba",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Tublay",
+    "ProvinceName": "Benguet Province"
+  },
+  {
+    "CityName": "Almeria",
+    "ProvinceName": "Biliran Province"
+  },
+  {
+    "CityName": "Biliran",
+    "ProvinceName": "Biliran Province"
+  },
+  {
+    "CityName": "Cabucgayan",
+    "ProvinceName": "Biliran Province"
+  },
+  {
+    "CityName": "Caibiran",
+    "ProvinceName": "Biliran Province"
+  },
+  {
+    "CityName": "Culaba",
+    "ProvinceName": "Biliran Province"
+  },
+  {
+    "CityName": "Kawayan",
+    "ProvinceName": "Biliran Province"
+  },
+  {
+    "CityName": "Maripipi",
+    "ProvinceName": "Biliran Province"
+  },
+  {
+    "CityName": "Naval",
+    "ProvinceName": "Biliran Province"
+  },
+  {
+    "CityName": "Alburquerque",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Alicia",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Anda",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Antequera",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Baclayon",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Balilihan",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Batuan",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Bien Unido",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Bilar",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Buenavista",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Calape",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Candijay",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Carmen",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Catigbian",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Clarin",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Corella",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Cortes",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Dagohoy",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Danao",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Dauis",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Dimiao",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Duero",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Garcia Hernandez",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Getafe",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Guindulman",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Inabanga",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Jagna",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Lila",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Loay",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Loboc",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Loon",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Mabini",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Maribojoc",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Panglao",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Pilar",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "President Carlos P. Garcia (Pitogo)",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Sagbayan (Borja)",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "San Isidro",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "San Miguel",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Sevilla",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Sierra Bullones",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Sikatuna",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Tagbilaran",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Talibon",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Trinidad",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Tubigon",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Ubay",
+    "ProvinceName": "Bohol Province"
+  },
+  {
+    "CityName": "Baungon",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Cabanglasan",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Damulog",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Dangcagan",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Don Carlos",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Impasugong",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Kadingilan",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Kalilangan",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Kibawe",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Kitaotao",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Lantapan",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Libona",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Malaybalay",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Malitbog",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Manolo Fortich",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Maramag",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Pangantucan",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Quezon",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "San Fernando",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Sumilao",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Talakag",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Valencia",
+    "ProvinceName": "Bukidnon Province"
+  },
+  {
+    "CityName": "Angat",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Balagtas (Bigaa)",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Baliuag",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Bocaue",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Bulakan",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Bustos",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Calumpit",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Doña Remedios Trinidad",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Guiguinto",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Hagonoy",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Malolos",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Marilao",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Meycauayan",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Norzagaray",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Obando",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Pandi",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Paombong",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Plaridel",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Pulilan",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "San Ildefonso",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "San Jose del Monte",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "San Miguel",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "San Rafael",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Santa Maria",
+    "ProvinceName": "Bulacan Province"
+  },
+  {
+    "CityName": "Abulug",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Alcala",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Allacapan",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Amulung",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Aparri",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Baggao",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Ballesteros",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Buguey",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Calayan",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Camalaniugan",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Claveria",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Enrile",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Gattaran",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Gonzaga",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Iguig",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Lal-lo",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Lasam",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Pamplona",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Peñablanca",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Piat",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Rizal",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Sanchez-Mira",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Santa Ana",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Santa Praxedes",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Santa Teresita",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Santo Niño (Faire)",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Solana",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Tuao",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Tuguegarao",
+    "ProvinceName": "Cagayan Province"
+  },
+  {
+    "CityName": "Basud",
+    "ProvinceName": "Camarines Norte Province"
+  },
+  {
+    "CityName": "Capalonga",
+    "ProvinceName": "Camarines Norte Province"
+  },
+  {
+    "CityName": "Daet",
+    "ProvinceName": "Camarines Norte Province"
+  },
+  {
+    "CityName": "Jose Panganiban",
+    "ProvinceName": "Camarines Norte Province"
+  },
+  {
+    "CityName": "Labo",
+    "ProvinceName": "Camarines Norte Province"
+  },
+  {
+    "CityName": "Mercedes",
+    "ProvinceName": "Camarines Norte Province"
+  },
+  {
+    "CityName": "Paracale",
+    "ProvinceName": "Camarines Norte Province"
+  },
+  {
+    "CityName": "San Lorenzo Ruiz (Imelda)",
+    "ProvinceName": "Camarines Norte Province"
+  },
+  {
+    "CityName": "San Vicente",
+    "ProvinceName": "Camarines Norte Province"
+  },
+  {
+    "CityName": "Santa Elena",
+    "ProvinceName": "Camarines Norte Province"
+  },
+  {
+    "CityName": "Talisay",
+    "ProvinceName": "Camarines Norte Province"
+  },
+  {
+    "CityName": "Vinzons",
+    "ProvinceName": "Camarines Norte Province"
+  },
+  {
+    "CityName": "Baao",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Balatan",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Bato",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Bombon",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Buhi",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Bula",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Cabusao",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Calabanga",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Camaligan",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Canaman",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Caramoan",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Del Gallego",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Gainza",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Garchitorena",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Goa",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Iriga",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Lagonoy",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Libmanan",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Lupi",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Magarao",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Milaor",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Minalabac",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Nabua",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Naga",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Ocampo",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Pamplona",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Pasacao",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Pili",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Presentación (Parubcan)",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Ragay",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Sagñay",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "San Fernando",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "San Jose",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Sipocot",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Siruma",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Tigaon",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Tinambac",
+    "ProvinceName": "Camarines Sur Province"
+  },
+  {
+    "CityName": "Catarman",
+    "ProvinceName": "Camiguin Province"
+  },
+  {
+    "CityName": "Guinsiliban",
+    "ProvinceName": "Camiguin Province"
+  },
+  {
+    "CityName": "Mahinog",
+    "ProvinceName": "Camiguin Province"
+  },
+  {
+    "CityName": "Mambajao",
+    "ProvinceName": "Camiguin Province"
+  },
+  {
+    "CityName": "Sagay",
+    "ProvinceName": "Camiguin Province"
+  },
+  {
+    "CityName": "Cuartero",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Dao",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Dumalag",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Dumarao",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Ivisan",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Jamindan",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Ma-ayon",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Mambusao",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Panay",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Panitan",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Pilar",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Pontevedra",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "President Roxas",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Roxas City",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Sapian",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Sigma",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Tapaz",
+    "ProvinceName": "Capiz Province"
+  },
+  {
+    "CityName": "Bagamanoc",
+    "ProvinceName": "Catanduanes Province"
+  },
+  {
+    "CityName": "Baras",
+    "ProvinceName": "Catanduanes Province"
+  },
+  {
+    "CityName": "Bato",
+    "ProvinceName": "Catanduanes Province"
+  },
+  {
+    "CityName": "Caramoran",
+    "ProvinceName": "Catanduanes Province"
+  },
+  {
+    "CityName": "Gigmoto",
+    "ProvinceName": "Catanduanes Province"
+  },
+  {
+    "CityName": "Pandan",
+    "ProvinceName": "Catanduanes Province"
+  },
+  {
+    "CityName": "Panganiban (Payo)",
+    "ProvinceName": "Catanduanes Province"
+  },
+  {
+    "CityName": "San Andres (Calolbon)",
+    "ProvinceName": "Catanduanes Province"
+  },
+  {
+    "CityName": "San Miguel",
+    "ProvinceName": "Catanduanes Province"
+  },
+  {
+    "CityName": "Viga",
+    "ProvinceName": "Catanduanes Province"
+  },
+  {
+    "CityName": "Virac",
+    "ProvinceName": "Catanduanes Province"
+  },
+  {
+    "CityName": "Alfonso",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Amadeo",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Bacoor",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Carmona",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Cavite City",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Dasmariñas",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "General Emilio Aguinaldo",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "General Mariano Alvarez",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "General Trias",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Imus",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Indang",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Kawit",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Magallanes",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Maragondon",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Mendez (Mendez-Nuñez)",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Naic",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Noveleta",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Rosario",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Silang",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Tagaytay",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Tanza",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Ternate",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Trece Martires",
+    "ProvinceName": "Cavite Province"
+  },
+  {
+    "CityName": "Alcantara",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Alcoy",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Alegria",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Aloguinsan",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Argao",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Asturias",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Badian",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Balamban",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Bantayan",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Barili",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Bogo",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Boljoon",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Borbon",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Carcar",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Carmen",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Catmon",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Cebu City",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Compostela",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Consolacion",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Cordova",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Daanbantayan",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Dalaguete",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Danao",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Dumanjug",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Ginatilan",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Lapu-Lapu (Opon)",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Liloan",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Madridejos",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Malabuyoc",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Mandaue",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Medellin",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Minglanilla",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Moalboal",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Naga",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Oslob",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Pilar",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Pinamungajan",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Poro",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Ronda",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Samboan",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "San Fernando",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "San Francisco",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "San Remigio",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Santa Fe",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Santander",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Sibonga",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Sogod",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Tabogon",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Tabuelan",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Talisay",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Toledo",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Tuburan",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Tudela",
+    "ProvinceName": "Cebu Province"
+  },
+  {
+    "CityName": "Alamada",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Aleosan",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Antipas",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Arakan",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Banisilan",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Carmen",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Kabacan",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Kidapawan",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Libungan",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "M’lang",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Magpet",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Makilala",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Matalam",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Midsayap",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Pigcawayan",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Pikit",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "President Roxas",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Tulunan",
+    "ProvinceName": "Cotabato Province"
+  },
+  {
+    "CityName": "Compostela",
+    "ProvinceName": "Davao de Oro Province"
+  },
+  {
+    "CityName": "Laak (San Vicente)",
+    "ProvinceName": "Davao de Oro Province"
+  },
+  {
+    "CityName": "Mabini (Doña Alicia)",
+    "ProvinceName": "Davao de Oro Province"
+  },
+  {
+    "CityName": "Maco",
+    "ProvinceName": "Davao de Oro Province"
+  },
+  {
+    "CityName": "Maragusan (San Mariano)",
+    "ProvinceName": "Davao de Oro Province"
+  },
+  {
+    "CityName": "Mawab",
+    "ProvinceName": "Davao de Oro Province"
+  },
+  {
+    "CityName": "Monkayo",
+    "ProvinceName": "Davao de Oro Province"
+  },
+  {
+    "CityName": "Montevista",
+    "ProvinceName": "Davao de Oro Province"
+  },
+  {
+    "CityName": "Nabunturan",
+    "ProvinceName": "Davao de Oro Province"
+  },
+  {
+    "CityName": "New Bataan",
+    "ProvinceName": "Davao de Oro Province"
+  },
+  {
+    "CityName": "Pantukan",
+    "ProvinceName": "Davao de Oro Province"
+  },
+  {
+    "CityName": "Asuncion (Saug)",
+    "ProvinceName": "Davao del Norte Province"
+  },
+  {
+    "CityName": "Braulio E. Dujali",
+    "ProvinceName": "Davao del Norte Province"
+  },
+  {
+    "CityName": "Carmen",
+    "ProvinceName": "Davao del Norte Province"
+  },
+  {
+    "CityName": "Kapalong",
+    "ProvinceName": "Davao del Norte Province"
+  },
+  {
+    "CityName": "New Corella",
+    "ProvinceName": "Davao del Norte Province"
+  },
+  {
+    "CityName": "Panabo",
+    "ProvinceName": "Davao del Norte Province"
+  },
+  {
+    "CityName": "Samal",
+    "ProvinceName": "Davao del Norte Province"
+  },
+  {
+    "CityName": "San Isidro",
+    "ProvinceName": "Davao del Norte Province"
+  },
+  {
+    "CityName": "Santo Tomas",
+    "ProvinceName": "Davao del Norte Province"
+  },
+  {
+    "CityName": "Tagum",
+    "ProvinceName": "Davao del Norte Province"
+  },
+  {
+    "CityName": "Talaingod",
+    "ProvinceName": "Davao del Norte Province"
+  },
+  {
+    "CityName": "Bansalan",
+    "ProvinceName": "Davao del Sur Province"
+  },
+  {
+    "CityName": "Davao City",
+    "ProvinceName": "Davao del Sur Province"
+  },
+  {
+    "CityName": "Digos",
+    "ProvinceName": "Davao del Sur Province"
+  },
+  {
+    "CityName": "Hagonoy",
+    "ProvinceName": "Davao del Sur Province"
+  },
+  {
+    "CityName": "Kiblawan",
+    "ProvinceName": "Davao del Sur Province"
+  },
+  {
+    "CityName": "Magsaysay",
+    "ProvinceName": "Davao del Sur Province"
+  },
+  {
+    "CityName": "Malalag",
+    "ProvinceName": "Davao del Sur Province"
+  },
+  {
+    "CityName": "Matanao",
+    "ProvinceName": "Davao del Sur Province"
+  },
+  {
+    "CityName": "Padada",
+    "ProvinceName": "Davao del Sur Province"
+  },
+  {
+    "CityName": "Santa Cruz",
+    "ProvinceName": "Davao del Sur Province"
+  },
+  {
+    "CityName": "Sulop",
+    "ProvinceName": "Davao del Sur Province"
+  },
+  {
+    "CityName": "Don Marcelino",
+    "ProvinceName": "Davao Occidental Province"
+  },
+  {
+    "CityName": "Jose Abad Santos (Trinidad)",
+    "ProvinceName": "Davao Occidental Province"
+  },
+  {
+    "CityName": "Malita",
+    "ProvinceName": "Davao Occidental Province"
+  },
+  {
+    "CityName": "Santa Maria",
+    "ProvinceName": "Davao Occidental Province"
+  },
+  {
+    "CityName": "Sarangani",
+    "ProvinceName": "Davao Occidental Province"
+  },
+  {
+    "CityName": "Baganga",
+    "ProvinceName": "Davao Oriental Province"
+  },
+  {
+    "CityName": "Banaybanay",
+    "ProvinceName": "Davao Oriental Province"
+  },
+  {
+    "CityName": "Boston",
+    "ProvinceName": "Davao Oriental Province"
+  },
+  {
+    "CityName": "Caraga",
+    "ProvinceName": "Davao Oriental Province"
+  },
+  {
+    "CityName": "Cateel",
+    "ProvinceName": "Davao Oriental Province"
+  },
+  {
+    "CityName": "Governor Generoso",
+    "ProvinceName": "Davao Oriental Province"
+  },
+  {
+    "CityName": "Lupon",
+    "ProvinceName": "Davao Oriental Province"
+  },
+  {
+    "CityName": "Manay",
+    "ProvinceName": "Davao Oriental Province"
+  },
+  {
+    "CityName": "Mati",
+    "ProvinceName": "Davao Oriental Province"
+  },
+  {
+    "CityName": "San Isidro",
+    "ProvinceName": "Davao Oriental Province"
+  },
+  {
+    "CityName": "Tarragona",
+    "ProvinceName": "Davao Oriental Province"
+  },
+  {
+    "CityName": "Basilisa (Rizal)",
+    "ProvinceName": "Dinagat Islands Province"
+  },
+  {
+    "CityName": "Cagdianao",
+    "ProvinceName": "Dinagat Islands Province"
+  },
+  {
+    "CityName": "Dinagat",
+    "ProvinceName": "Dinagat Islands Province"
+  },
+  {
+    "CityName": "Libjo (Albor)",
+    "ProvinceName": "Dinagat Islands Province"
+  },
+  {
+    "CityName": "Loreto",
+    "ProvinceName": "Dinagat Islands Province"
+  },
+  {
+    "CityName": "San Jose",
+    "ProvinceName": "Dinagat Islands Province"
+  },
+  {
+    "CityName": "Tubajon",
+    "ProvinceName": "Dinagat Islands Province"
+  },
+  {
+    "CityName": "Arteche",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Balangiga",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Balangkayan",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Borongan",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Can-avid",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Dolores",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "General MacArthur",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Giporlos",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Guiuan",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Hernani",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Jipapad",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Lawaan",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Llorente",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Maslog",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Maydolong",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Mercedes",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Oras",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Quinapondan",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Salcedo",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "San Julian",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "San Policarpo",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Sulat",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Taft",
+    "ProvinceName": "Eastern Samar Province"
+  },
+  {
+    "CityName": "Buenavista",
+    "ProvinceName": "Guimaras Province"
+  },
+  {
+    "CityName": "Jordan",
+    "ProvinceName": "Guimaras Province"
+  },
+  {
+    "CityName": "Nueva Valencia",
+    "ProvinceName": "Guimaras Province"
+  },
+  {
+    "CityName": "San Lorenzo",
+    "ProvinceName": "Guimaras Province"
+  },
+  {
+    "CityName": "Sibunag",
+    "ProvinceName": "Guimaras Province"
+  },
+  {
+    "CityName": "Aguinaldo",
+    "ProvinceName": "Ifugao Province"
+  },
+  {
+    "CityName": "Alfonso Lista (Potia)",
+    "ProvinceName": "Ifugao Province"
+  },
+  {
+    "CityName": "Asipulo",
+    "ProvinceName": "Ifugao Province"
+  },
+  {
+    "CityName": "Banaue",
+    "ProvinceName": "Ifugao Province"
+  },
+  {
+    "CityName": "Hingyon",
+    "ProvinceName": "Ifugao Province"
+  },
+  {
+    "CityName": "Hungduan",
+    "ProvinceName": "Ifugao Province"
+  },
+  {
+    "CityName": "Kiangan",
+    "ProvinceName": "Ifugao Province"
+  },
+  {
+    "CityName": "Lagawe",
+    "ProvinceName": "Ifugao Province"
+  },
+  {
+    "CityName": "Lamut",
+    "ProvinceName": "Ifugao Province"
+  },
+  {
+    "CityName": "Mayoyao",
+    "ProvinceName": "Ifugao Province"
+  },
+  {
+    "CityName": "Tinoc",
+    "ProvinceName": "Ifugao Province"
+  },
+  {
+    "CityName": "Adams",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Bacarra",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Badoc",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Bangui",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Banna (Espiritu)",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Batac",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Burgos",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Carasi",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Currimao",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Dingras",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Dumalneg",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Laoag",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Marcos",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Nueva Era",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Pagudpud",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Paoay",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Pasuquin",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Piddig",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Pinili",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "San Nicolas",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Sarrat",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Solsona",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Vintar",
+    "ProvinceName": "Ilocos Norte Province"
+  },
+  {
+    "CityName": "Alilem",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Banayoyo",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Bantay",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Burgos",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Cabugao",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Candon",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Caoayan",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Cervantes",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Galimuyod",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Gregorio del Pilar (Concepcion)",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Lidlidda",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Magsingal",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Nagbukel",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Narvacan",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Quirino (Angkaki)",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Salcedo (Baugen)",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "San Emilio",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "San Esteban",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "San Ildefonso",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "San Juan (Lapog)",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "San Vicente",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Santa",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Santa Catalina",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Santa Cruz",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Santa Lucia",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Santa Maria",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Santiago",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Santo Domingo",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Sigay",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Sinait",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Sugpon",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Suyo",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Tagudin",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Vigan",
+    "ProvinceName": "Ilocos Sur Province"
+  },
+  {
+    "CityName": "Ajuy",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Alimodian",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Anilao",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Badiangan",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Balasan",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Banate",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Barotac Nuevo",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Barotac Viejo",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Batad",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Bingawan",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Cabatuan",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Calinog",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Carles",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Concepcion",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Dingle",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Dueñas",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Dumangas",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Estancia",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Guimbal",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Igbaras",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Iloilo City",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Janiuay",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Lambunao",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Leganes",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Lemery",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Leon",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Maasin",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Miagao",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Mina",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "New Lucena",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Oton",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Passi",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Pavia",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Pototan",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "San Dionisio",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "San Enrique",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "San Joaquin",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "San Miguel",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "San Rafael",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Santa Barbara",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Sara",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Tigbauan",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Tubungan",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Zarraga",
+    "ProvinceName": "Iloilo Province"
+  },
+  {
+    "CityName": "Alicia",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Angadanan",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Aurora",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Benito Soliven",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Burgos",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Cabagan",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Cabatuan",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Cauayan",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Cordon",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Delfin Albano (Magsaysay)",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Dinapigue",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Divilacan",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Echague",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Gamu",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Ilagan",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Jones",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Luna",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Maconacon",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Mallig",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Naguilian",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Palanan",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Quezon",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Quirino",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Ramon",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Reina Mercedes",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Roxas",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "San Agustin",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "San Guillermo",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "San Isidro",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "San Manuel (Callang)",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "San Mariano",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "San Mateo",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "San Pablo",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Santa Maria",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Santiago",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Santo Tomas",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Tumauini",
+    "ProvinceName": "Isabela Province"
+  },
+  {
+    "CityName": "Balbalan",
+    "ProvinceName": "Kalinga Province"
+  },
+  {
+    "CityName": "Lubuagan",
+    "ProvinceName": "Kalinga Province"
+  },
+  {
+    "CityName": "Pasil",
+    "ProvinceName": "Kalinga Province"
+  },
+  {
+    "CityName": "Pinukpuk",
+    "ProvinceName": "Kalinga Province"
+  },
+  {
+    "CityName": "Rizal (Liwan)",
+    "ProvinceName": "Kalinga Province"
+  },
+  {
+    "CityName": "Tabuk",
+    "ProvinceName": "Kalinga Province"
+  },
+  {
+    "CityName": "Tanudan",
+    "ProvinceName": "Kalinga Province"
+  },
+  {
+    "CityName": "Tinglayan",
+    "ProvinceName": "Kalinga Province"
+  },
+  {
+    "CityName": "Agoo",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Aringay",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Bacnotan",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Bagulin",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Balaoan",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Bangar",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Bauang",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Burgos",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Caba",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Luna",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Naguilian",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Pugo",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Rosario",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "San Fernando",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "San Gabriel",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "San Juan",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Santo Tomas",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Santol",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Sudipen",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Tubao",
+    "ProvinceName": "La Union Province"
+  },
+  {
+    "CityName": "Alaminos",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Bay",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Biñan",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Cabuyao",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Calamba",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Calauan",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Cavinti",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Famy",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Kalayaan",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Liliw",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Los Baños",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Luisiana",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Lumban",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Mabitac",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Magdalena",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Majayjay",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Nagcarlan",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Paete",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Pagsanjan",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Pakil",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Pangil",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Pila",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Rizal",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "San Pablo",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "San Pedro",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Santa Cruz",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Santa Maria",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Santa Rosa",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Siniloan",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Victoria",
+    "ProvinceName": "Laguna Province"
+  },
+  {
+    "CityName": "Bacolod",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Baloi",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Baroy",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Iligan",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Kapatagan",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Kauswagan",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Kolambugan",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Lala",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Linamon",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Magsaysay",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Maigo",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Matungao",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Munai",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Nunungan",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Pantao Ragat",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Pantar",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Poona Piagapo",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Salvador",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Sapad",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Sultan Naga Dimaporo (Karomatan)",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Tagoloan",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Tangcal",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Tubod",
+    "ProvinceName": "Lanao del Norte Province"
+  },
+  {
+    "CityName": "Amai Manabilang (Bumbaran)",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Bacolod-Kalawi (Bacolod-Grande)",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Balabagan",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Balindong (Watu)",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Bayang",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Binidayan",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Buadiposo-Buntong",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Bubong",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Butig",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Calanogas",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Ditsaan-Ramain",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Ganassi",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Kapai",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Kapatagan",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Lumba-Bayabao (Maguing)",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Lumbaca-Unayan",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Lumbatan",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Lumbayanague",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Madalum",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Madamba",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Maguing",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Malabang",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Marantao",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Marawi",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Marogong",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Masiu",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Mulondo",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Pagayawan (Tatarikan)",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Piagapo",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Picong (Sultan Gumander)",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Poona Bayabao (Gata)",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Pualas",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Saguiaran",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Sultan Dumalondong",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Tagoloan II",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Tamparan",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Taraka",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Tubaran",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Tugaya",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Wao",
+    "ProvinceName": "Lanao del Sur Province"
+  },
+  {
+    "CityName": "Abuyog",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Alangalang",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Albuera",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Babatngon",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Barugo",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Bato",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Baybay",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Burauen",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Calubian",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Capoocan",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Carigara",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Dagami",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Dulag",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Hilongos",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Hindang",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Inopacan",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Isabel",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Jaro",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Javier (Bugho)",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Julita",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Kananga",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "La Paz",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Leyte",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "MacArthur",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Mahaplag",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Matag-ob",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Matalom",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Mayorga",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Merida",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Ormoc",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Palo",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Palompon",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Pastrana",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "San Isidro",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "San Miguel",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Santa Fe",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Tabango",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Tabontabon",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Tacloban",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Tanauan",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Tolosa",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Tunga",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Villaba",
+    "ProvinceName": "Leyte Province"
+  },
+  {
+    "CityName": "Ampatuan",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Barira",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Buldon",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Buluan",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Cotabato City",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Datu Abdullah Sangki",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Datu Anggal Midtimbang",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Datu Blah T. Sinsuat",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Datu Hoffer Ampatuan",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Datu Montawal (Pagagawan)",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Datu Odin Sinsuat (Dinaig)",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Datu Paglas",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Datu Piang (Dulawan)",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Datu Salibo",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Datu Saudi-Ampatuan",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Datu Unsay",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "General Salipada K. Pendatun",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Guindulungan",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Kabuntalan (Tumbao)",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Mamasapano",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Mangudadatu",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Matanog",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Northern Kabuntalan",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Pagalungan",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Paglat",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Pandag",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Parang",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Rajah Buayan",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Shariff Aguak (Maganoy)",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Shariff Saydona Mustapha",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "South Upi",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Sultan Kudarat (Nuling)",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Sultan Mastura",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Sultan sa Barongis (Lambayong)",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Sultan Sumagka (Talitay)",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Talayan",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Upi",
+    "ProvinceName": "Maguindanao Province"
+  },
+  {
+    "CityName": "Boac",
+    "ProvinceName": "Marinduque Province"
+  },
+  {
+    "CityName": "Buenavista",
+    "ProvinceName": "Marinduque Province"
+  },
+  {
+    "CityName": "Gasan",
+    "ProvinceName": "Marinduque Province"
+  },
+  {
+    "CityName": "Mogpog",
+    "ProvinceName": "Marinduque Province"
+  },
+  {
+    "CityName": "Santa Cruz",
+    "ProvinceName": "Marinduque Province"
+  },
+  {
+    "CityName": "Torrijos",
+    "ProvinceName": "Marinduque Province"
+  },
+  {
+    "CityName": "Aroroy",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Baleno",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Balud",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Batuan",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Cataingan",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Cawayan",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Claveria",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Dimasalang",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Esperanza",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Mandaon",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Masbate City",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Milagros",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Mobo",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Monreal",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Palanas",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Pio V. Corpuz (Limbuhan)",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Placer",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "San Fernando",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "San Jacinto",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "San Pascual",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Uson",
+    "ProvinceName": "Masbate Province"
+  },
+  {
+    "CityName": "Aloran",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Baliangao",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Bonifacio",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Calamba",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Clarin",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Concepcion",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Don Victoriano Chiongbian (Don Mariano Marcos)",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Jimenez",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Lopez Jaena",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Oroquieta",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Ozamiz",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Panaon",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Plaridel",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Sapang Dalaga",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Sinacaban",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Tangub",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Tudela",
+    "ProvinceName": "Misamis Occidental Province"
+  },
+  {
+    "CityName": "Alubijid",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Balingasag",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Balingoan",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Binuangan",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Cagayan de Oro",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Claveria",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "El Salvador",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Gingoog",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Gitagum",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Initao",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Jasaan",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Kinoguitan",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Lagonglong",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Laguindingan",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Libertad",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Lugait",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Magsaysay (Linugos)",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Manticao",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Medina",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Naawan",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Opol",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Salay",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Sugbongcogon",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Tagoloan",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Talisayan",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Villanueva",
+    "ProvinceName": "Misamis Oriental Province"
+  },
+  {
+    "CityName": "Barlig",
+    "ProvinceName": "Mountain Province"
+  },
+  {
+    "CityName": "Bauko",
+    "ProvinceName": "Mountain Province"
+  },
+  {
+    "CityName": "Besao",
+    "ProvinceName": "Mountain Province"
+  },
+  {
+    "CityName": "Bontoc",
+    "ProvinceName": "Mountain Province"
+  },
+  {
+    "CityName": "Natonin",
+    "ProvinceName": "Mountain Province"
+  },
+  {
+    "CityName": "Paracelis",
+    "ProvinceName": "Mountain Province"
+  },
+  {
+    "CityName": "Sabangan",
+    "ProvinceName": "Mountain Province"
+  },
+  {
+    "CityName": "Sadanga",
+    "ProvinceName": "Mountain Province"
+  },
+  {
+    "CityName": "Sagada",
+    "ProvinceName": "Mountain Province"
+  },
+  {
+    "CityName": "Tadian",
+    "ProvinceName": "Mountain Province"
+  },
+  {
+    "CityName": "Mandaluyong",
+    "ProvinceName": "NCR, 2nd District Province"
+  },
+  {
+    "CityName": "Marikina",
+    "ProvinceName": "NCR, 2nd District Province"
+  },
+  {
+    "CityName": "Pasig",
+    "ProvinceName": "NCR, 2nd District Province"
+  },
+  {
+    "CityName": "Quezon City",
+    "ProvinceName": "NCR, 2nd District Province"
+  },
+  {
+    "CityName": "San Juan",
+    "ProvinceName": "NCR, 2nd District Province"
+  },
+  {
+    "CityName": "Caloocan",
+    "ProvinceName": "NCR, 3rd District Province"
+  },
+  {
+    "CityName": "Malabon",
+    "ProvinceName": "NCR, 3rd District Province"
+  },
+  {
+    "CityName": "Navotas",
+    "ProvinceName": "NCR, 3rd District Province"
+  },
+  {
+    "CityName": "Valenzuela",
+    "ProvinceName": "NCR, 3rd District Province"
+  },
+  {
+    "CityName": "Las Piñas",
+    "ProvinceName": "NCR, 4th District Province"
+  },
+  {
+    "CityName": "Makati",
+    "ProvinceName": "NCR, 4th District Province"
+  },
+  {
+    "CityName": "Muntinlupa",
+    "ProvinceName": "NCR, 4th District Province"
+  },
+  {
+    "CityName": "Parañaque",
+    "ProvinceName": "NCR, 4th District Province"
+  },
+  {
+    "CityName": "Pasay",
+    "ProvinceName": "NCR, 4th District Province"
+  },
+  {
+    "CityName": "Pateros",
+    "ProvinceName": "NCR, 4th District Province"
+  },
+  {
+    "CityName": "Taguia",
+    "ProvinceName": "NCR, 4th District Province"
+  },
+  {
+    "CityName": "Manila",
+    "ProvinceName": "NCR, City of Manila, 1st District Province"
+  },
+  {
+    "CityName": "Bacolod",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Bago",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Binalbagan",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Cadiz",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Calatrava",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Candoni",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Cauayan",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Enrique B. Magalona (Saravia)",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Escalante",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Himamaylan",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Hinigaran",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Hinoba-an (Asia)",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Ilog",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Isabela",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Kabankalan",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "La Carlota",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "La Castellana",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Manapla",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Moises Padilla (Magallon)",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Murcia",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Pontevedra",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Pulupandan",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Sagay",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Salvador Benedicto",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "San Carlos",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "San Enrique",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Silay",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Sipalay",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Talisay",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Toboso",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Valladolid",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Victorias",
+    "ProvinceName": "Negros Occidental Province"
+  },
+  {
+    "CityName": "Amlan (Ayuquitan)",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Ayungon",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Bacong",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Bais",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Basay",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Bayawan (Tulong)",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Bindoy (Payabon)",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Canlaon",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Dauin",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Dumaguete",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Guihulngan",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Jimalalud",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "La Libertad",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Mabinay",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Manjuyod",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Pamplona",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "San Jose",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Santa Catalina",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Siaton",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Sibulan",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Tanjay",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Tayasan",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Valencia (Luzurriaga)",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Vallehermoso",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Zamboanguita",
+    "ProvinceName": "Negros Oriental Province"
+  },
+  {
+    "CityName": "Allen",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Biri",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Bobon",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Capul",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Catarman",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Catubig",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Gamay",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Laoang",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Lapinig",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Las Navas",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Lavezares",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Lope de Vega",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Mapanas",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Mondragon",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Palapag",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Pambujan",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Rosario",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "San Antonio",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "San Isidro",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "San Jose",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "San Roque",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "San Vicente",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Silvino Lobos",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Victoria",
+    "ProvinceName": "Northern Samar Province"
+  },
+  {
+    "CityName": "Aliaga",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Bongabon",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Cabanatuan",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Cabiao",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Carranglan",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Cuyapo",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Gabaldon (Bitulok & Sabani)",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Gapan",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "General Mamerto Natividad",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "General Tinio (Papaya)",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Guimba",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Jaen",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Laur",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Licab",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Llanera",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Lupao",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Muñoz",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Nampicuan",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Palayan",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Pantabangan",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Peñaranda",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Quezon",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Rizal",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "San Antonio",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "San Isidro",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "San Jose",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "San Leonardo",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Santa Rosa",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Santo Domingo",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Talavera",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Talugtug",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Zaragoza",
+    "ProvinceName": "Nueva Ecija Province"
+  },
+  {
+    "CityName": "Alfonso Castañeda",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Ambaguio",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Aritao",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Bagabag",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Bambang",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Bayombong",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Diadi",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Dupax del Norte",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Dupax del Sur",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Kasibu",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Kayapa",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Quezon",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Santa Fe (Imugan)",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Solano",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Villaverde (Ibung)",
+    "ProvinceName": "Nueva Vizcaya Province"
+  },
+  {
+    "CityName": "Abra de Ilog",
+    "ProvinceName": "Occidental Mindoro Province"
+  },
+  {
+    "CityName": "Calintaan",
+    "ProvinceName": "Occidental Mindoro Province"
+  },
+  {
+    "CityName": "Looc",
+    "ProvinceName": "Occidental Mindoro Province"
+  },
+  {
+    "CityName": "Lubang",
+    "ProvinceName": "Occidental Mindoro Province"
+  },
+  {
+    "CityName": "Magsaysay",
+    "ProvinceName": "Occidental Mindoro Province"
+  },
+  {
+    "CityName": "Mamburao",
+    "ProvinceName": "Occidental Mindoro Province"
+  },
+  {
+    "CityName": "Paluan",
+    "ProvinceName": "Occidental Mindoro Province"
+  },
+  {
+    "CityName": "Rizal",
+    "ProvinceName": "Occidental Mindoro Province"
+  },
+  {
+    "CityName": "Sablayan",
+    "ProvinceName": "Occidental Mindoro Province"
+  },
+  {
+    "CityName": "San Jose",
+    "ProvinceName": "Occidental Mindoro Province"
+  },
+  {
+    "CityName": "Santa Cruz",
+    "ProvinceName": "Occidental Mindoro Province"
+  },
+  {
+    "CityName": "Aborlan",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Agutaya",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Araceli",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Balabac",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Bataraza",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Brooke’s Point",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Busuanga",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Cagayancillo",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Coron",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Culion",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Cuyo",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Dumaran",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "El Nido (Bacuit)",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Kalayaan",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Linapacan",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Magsaysay",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Narra",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Puerto Princesa",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Quezon",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Rizal (Marcos)",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Roxas",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "San Vicente",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Sofronio Española",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Taytay",
+    "ProvinceName": "Palawan Province"
+  },
+  {
+    "CityName": "Angeles",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Apalit",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Arayat",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Bacolor",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Candaba",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Floridablanca",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Guagua",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Lubao",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Mabalacat",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Macabebe",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Magalang",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Masantol",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Mexico",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Minalin",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Porac",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "San Fernando",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "San Luis",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "San Simon",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Santa Ana",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Santa Rita",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Santo Tomas",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Sasmuan",
+    "ProvinceName": "Pampanga Province"
+  },
+  {
+    "CityName": "Agno",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Aguilar",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Alaminos",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Alcala",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Anda",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Asingan",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Balungao",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Bani",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Basista",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Bautista",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Bayambang",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Binalonan",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Binmaley",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Bolinao",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Bugallon",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Burgos",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Calasiao",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Dagupan",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Dasol",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Infanta",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Labrador",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Laoac",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Lingayen",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Mabini",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Malasiqui",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Manaoag",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Mangaldan",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Mangatarem",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Mapandan",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Natividad",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Pozorrubio",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Rosales",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "San Carlos",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "San Fabian",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "San Jacinto",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "San Manuel",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "San Nicolas",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "San Quintin",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Santa Barbara",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Santa Maria",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Santo Tomas",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Sison",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Sual",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Tayug",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Umingan",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Urbiztondo",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Urdaneta",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Villasis",
+    "ProvinceName": "Pangasinan Province"
+  },
+  {
+    "CityName": "Agdangan",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Alabat",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Atimonan",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Buenavista",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Burdeos",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Calauag",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Candelaria",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Catanauan",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Dolores",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "General Luna",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "General Nakar",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Guinayangan",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Gumaca",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Infanta",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Jomalig",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Lopez",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Lucban",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Lucena",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Macalelon",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Mauban",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Mulanay",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Padre Burgos",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Pagbilao",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Panukulan",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Patnanungan",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Perez",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Pitogo",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Plaridel",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Polillo",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Quezon",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Real",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Sampaloc",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "San Andres",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "San Antonio",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "San Francisco (Aurora)",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "San Narciso",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Sariaya",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Tagkawayan",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Tayabas",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Tiaong",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Unisan",
+    "ProvinceName": "Quezon Province"
+  },
+  {
+    "CityName": "Aglipay",
+    "ProvinceName": "Quirino Province"
+  },
+  {
+    "CityName": "Cabarroguis",
+    "ProvinceName": "Quirino Province"
+  },
+  {
+    "CityName": "Diffun",
+    "ProvinceName": "Quirino Province"
+  },
+  {
+    "CityName": "Maddela",
+    "ProvinceName": "Quirino Province"
+  },
+  {
+    "CityName": "Nagtipunan",
+    "ProvinceName": "Quirino Province"
+  },
+  {
+    "CityName": "Saguday",
+    "ProvinceName": "Quirino Province"
+  },
+  {
+    "CityName": "Angono",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Antipolo",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Baras",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Binangonan",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Cainta",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Cardona",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Jalajala",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Morong",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Pililla",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Rodriguez (Montalban)",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "San Mateo",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Tanay",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Taytay",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Teresa",
+    "ProvinceName": "Rizal Province"
+  },
+  {
+    "CityName": "Alcantara",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Banton (Jones)",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Cajidiocan",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Calatrava",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Concepcion",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Corcuera",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Ferrol",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Looc",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Magdiwang",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Odiongan",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Romblon",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "San Agustin",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "San Andres",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "San Fernando",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "San Jose",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Santa Fe",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Santa Maria (Imelda)",
+    "ProvinceName": "Romblon Province"
+  },
+  {
+    "CityName": "Almagro",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Basey",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Calbayog",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Calbiga",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Catbalogan",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Daram",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Gandara",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Hinabangan",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Jiabong",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Marabut",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Matuguinao",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Motiong",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Pagsanghan",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Paranas (Wright)",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Pinabacdao",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "San Jorge",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "San Jose de Buan",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "San Sebastian",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Santa Margarita",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Santa Rita",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Santo Niño",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Tagapul-an",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Talalora",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Tarangnan",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Villareal",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Zumarraga",
+    "ProvinceName": "Samar Province"
+  },
+  {
+    "CityName": "Alabel",
+    "ProvinceName": "Sarangani Province"
+  },
+  {
+    "CityName": "Glan",
+    "ProvinceName": "Sarangani Province"
+  },
+  {
+    "CityName": "Kiamba",
+    "ProvinceName": "Sarangani Province"
+  },
+  {
+    "CityName": "Maasim",
+    "ProvinceName": "Sarangani Province"
+  },
+  {
+    "CityName": "Maitum",
+    "ProvinceName": "Sarangani Province"
+  },
+  {
+    "CityName": "Malapatan",
+    "ProvinceName": "Sarangani Province"
+  },
+  {
+    "CityName": "Malungon",
+    "ProvinceName": "Sarangani Province"
+  },
+  {
+    "CityName": "Enrique Villanueva",
+    "ProvinceName": "Siquijor Province"
+  },
+  {
+    "CityName": "Larena",
+    "ProvinceName": "Siquijor Province"
+  },
+  {
+    "CityName": "Lazi",
+    "ProvinceName": "Siquijor Province"
+  },
+  {
+    "CityName": "Maria",
+    "ProvinceName": "Siquijor Province"
+  },
+  {
+    "CityName": "San Juan",
+    "ProvinceName": "Siquijor Province"
+  },
+  {
+    "CityName": "Siquijor",
+    "ProvinceName": "Siquijor Province"
+  },
+  {
+    "CityName": "Sorsogon Province",
+    "ProvinceName": "Siquijor Province"
+  },
+  {
+    "CityName": "Banga",
+    "ProvinceName": "South Cotabato Province"
+  },
+  {
+    "CityName": "General Santos (Dadiangas)",
+    "ProvinceName": "South Cotabato Province"
+  },
+  {
+    "CityName": "Koronadal",
+    "ProvinceName": "South Cotabato Province"
+  },
+  {
+    "CityName": "Lake Sebu",
+    "ProvinceName": "South Cotabato Province"
+  },
+  {
+    "CityName": "Norala",
+    "ProvinceName": "South Cotabato Province"
+  },
+  {
+    "CityName": "Polomolok",
+    "ProvinceName": "South Cotabato Province"
+  },
+  {
+    "CityName": "Santo Niño",
+    "ProvinceName": "South Cotabato Province"
+  },
+  {
+    "CityName": "Surallah",
+    "ProvinceName": "South Cotabato Province"
+  },
+  {
+    "CityName": "T’Boli",
+    "ProvinceName": "South Cotabato Province"
+  },
+  {
+    "CityName": "Tampakan",
+    "ProvinceName": "South Cotabato Province"
+  },
+  {
+    "CityName": "Tantangan",
+    "ProvinceName": "South Cotabato Province"
+  },
+  {
+    "CityName": "Tupi",
+    "ProvinceName": "South Cotabato Province"
+  },
+  {
+    "CityName": "Anahawan",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Bontoc",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Hinunangan",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Hinundayan",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Libagon",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Liloan",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Limasawa",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Maasin",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Macrohon",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Malitbog",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Padre Burgos",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Pintuyan",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Saint Bernard",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "San Francisco",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "San Juan (Cabalian)",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "San Ricardo",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Silago",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Sogod",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Tomas Oppus",
+    "ProvinceName": "Southern Leyte Province"
+  },
+  {
+    "CityName": "Bagumbayan",
+    "ProvinceName": "Sultan Kudarat Province"
+  },
+  {
+    "CityName": "Columbio",
+    "ProvinceName": "Sultan Kudarat Province"
+  },
+  {
+    "CityName": "Esperanza",
+    "ProvinceName": "Sultan Kudarat Province"
+  },
+  {
+    "CityName": "Isulan",
+    "ProvinceName": "Sultan Kudarat Province"
+  },
+  {
+    "CityName": "Kalamansig",
+    "ProvinceName": "Sultan Kudarat Province"
+  },
+  {
+    "CityName": "Lambayong (Mariano Marcos)",
+    "ProvinceName": "Sultan Kudarat Province"
+  },
+  {
+    "CityName": "Lebak",
+    "ProvinceName": "Sultan Kudarat Province"
+  },
+  {
+    "CityName": "Lutayan",
+    "ProvinceName": "Sultan Kudarat Province"
+  },
+  {
+    "CityName": "Palimbang",
+    "ProvinceName": "Sultan Kudarat Province"
+  },
+  {
+    "CityName": "President Quirino",
+    "ProvinceName": "Sultan Kudarat Province"
+  },
+  {
+    "CityName": "Senator Ninoy Aquino",
+    "ProvinceName": "Sultan Kudarat Province"
+  },
+  {
+    "CityName": "Tacurong",
+    "ProvinceName": "Sultan Kudarat Province"
+  },
+  {
+    "CityName": "Banguingui (Tongkil)",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Hadji Panglima Tahil (Marunggas)",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Indanan",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Jolo",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Kalingalan Caluang",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Lugus",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Luuk",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Maimbung",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Old Panamao",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Omar",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Pandami",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Panglima Estino (New Panamao)",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Pangutaran",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Parang",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Pata",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Patikul",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Siasi",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Talipao",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Tapul",
+    "ProvinceName": "Sulu Province"
+  },
+  {
+    "CityName": "Alegria",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Bacuag",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Burgos",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Claver",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Dapa",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Del Carmen",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "General Luna",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Gigaquit",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Mainit",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Malimono",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Pilar",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Placer",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "San Benito",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "San Francisco (Anao-Aon)",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "San Isidro",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Santa Monica (Sapao)",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Sison",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Socorro",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Surigao City",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Tagana-an",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Tubod",
+    "ProvinceName": "Surigao del Norte Province"
+  },
+  {
+    "CityName": "Barobo",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Bayabas",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Bislig",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Cagwait",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Cantilan",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Carmen",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Carrascal",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Cortes",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Hinatuan",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Lanuza",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Lianga",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Lingig",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Madrid",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Marihatag",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "San Agustin",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "San Miguel",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Tagbina",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Tago",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Tandag",
+    "ProvinceName": "Surigao del Sur Province"
+  },
+  {
+    "CityName": "Anao",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Bamban",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Camiling",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Capas",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Concepcion",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Gerona",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "La Paz",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Mayantoc",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Moncada",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Paniqui",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Pura",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Ramos",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "San Clemente",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "San Jose",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "San Manuel",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Santa Ignacia",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Tarlac City",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Victoria",
+    "ProvinceName": "Tarlac Province"
+  },
+  {
+    "CityName": "Bongao",
+    "ProvinceName": "Tawi-Tawi Province"
+  },
+  {
+    "CityName": "Languyan",
+    "ProvinceName": "Tawi-Tawi Province"
+  },
+  {
+    "CityName": "Mapun (Cagayan de Tawi-Tawi)",
+    "ProvinceName": "Tawi-Tawi Province"
+  },
+  {
+    "CityName": "Panglima Sugala (Balimbing)",
+    "ProvinceName": "Tawi-Tawi Province"
+  },
+  {
+    "CityName": "Sapa-Sapa",
+    "ProvinceName": "Tawi-Tawi Province"
+  },
+  {
+    "CityName": "Sibutu",
+    "ProvinceName": "Tawi-Tawi Province"
+  },
+  {
+    "CityName": "Simunul",
+    "ProvinceName": "Tawi-Tawi Province"
+  },
+  {
+    "CityName": "Sitangkai",
+    "ProvinceName": "Tawi-Tawi Province"
+  },
+  {
+    "CityName": "South Ubian",
+    "ProvinceName": "Tawi-Tawi Province"
+  },
+  {
+    "CityName": "Tandubas",
+    "ProvinceName": "Tawi-Tawi Province"
+  },
+  {
+    "CityName": "Turtle Islands (Taganak)",
+    "ProvinceName": "Tawi-Tawi Province"
+  },
+  {
+    "CityName": "Botolan",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "Cabangan",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "Candelaria",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "Castillejos",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "Iba",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "Masinloc",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "Olongapo",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "Palauig",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "San Antonio",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "San Felipe",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "San Marcelino",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "San Narciso",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "Santa Cruz",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "Subic",
+    "ProvinceName": "Zambales Province"
+  },
+  {
+    "CityName": "Baliguian",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Dapitan",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Dipolog",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Godod",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Gutalac",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Jose Dalman (Ponot)",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Kalawit",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Katipunan",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "La Libertad",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Labason",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Leon B. Postigo (Bacungan)",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Liloy",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Manukan",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Mutia",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Baliguian",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Piñan (New Piñan)",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Polanco",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "President Manuel A. Roxas",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Rizal",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Salug",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Sergio Osmeña Sr.",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Siayan",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Sibuco",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Sibutad",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Sindangan",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Siocon",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Sirawai",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Tampilisan",
+    "ProvinceName": "Zamboanga del Norte Province"
+  },
+  {
+    "CityName": "Aurora",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Bayog",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Dimataling",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Dinas",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Dumalinao",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Dumingag",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Guipos",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Josefina",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Kumalarang",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Labangan",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Lakewood",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Lapuyan",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Mahayag",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Margosatubig",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Midsalip",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Molave",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Pagadian",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Pitogo",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Ramon Magsaysay (Liargo)",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "San Miguel",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "San Pablo",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Sominot (Don Mariano Marcos)",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Tabina",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Tambulig",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Tigbao",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Tukuran",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Vincenzo A. Sagun",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Zamboanga City",
+    "ProvinceName": "Zamboanga del Sur Province"
+  },
+  {
+    "CityName": "Alicia",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Buug",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Diplahan",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Imelda",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Ipil",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Kabasalan",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Mabuhay",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Malangas",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Naga",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Olutanga",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Payao",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Roseller Lim",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Siay",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Talusan",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Titay",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  },
+  {
+    "CityName": "Tunga",
+    "ProvinceName": "Zamboanga Sibugay Province"
+  }
+]
