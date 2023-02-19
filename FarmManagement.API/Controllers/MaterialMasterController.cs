@@ -62,7 +62,7 @@ namespace FarmManagement.API.Controllers
             return NoContent();
         }
 
-        [HttpGet("GetAllMaterialMastersBySite/{id}")]
+        [HttpGet("GetAllMaterialMastersBySite/{id}",Name = "GetAllMaterialMastersBySite")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesDefaultResponseType]
         public async Task<ActionResult<List<MaterialMasterListVm>>> GetAllMaterialMastersBySite(Guid id)
@@ -72,7 +72,7 @@ namespace FarmManagement.API.Controllers
             return Ok(dtos);
         }
 
-        [HttpGet("SearchMaterialMasterList/{query}/{siteId?}")]
+        [HttpGet("SearchMaterialMasterList/{query}/{siteId?}",Name = "SearchMaterialMasterList")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesDefaultResponseType]
         public async Task<ActionResult<List<MaterialMasterListVm>>> SearchMaterialMasterList(string query, Guid siteId = default(Guid))

@@ -1,4 +1,5 @@
 ﻿using FarmManagement.Application.Exceptions;
+using FarmManagement.Application.Responses;
 using System.Net;
 using System.Text.Json;
 
@@ -7,10 +8,12 @@ namespace FarmManagement.API.Middleware
     public class ExceptionHandlerMiddleware
     {
         private readonly RequestDelegate _next;
+        private readonly IHostEnvironment _env;
 
-        public ExceptionHandlerMiddleware(RequestDelegate next)
+        public ExceptionHandlerMiddleware(RequestDelegate next,IHostEnvironment env)
         {
             _next = next;
+            _env = env;
         }
 
         public async Task Invoke(HttpContext context)
@@ -58,7 +61,15 @@ namespace FarmManagement.API.Middleware
                 result = JsonSerializer.Serialize(new { error = exception.Message });
             }
 
-            return context.Response.WriteAsync(result);
+            var response = _env.IsDevelopment()
+                   ? new ApiException(context.Response.StatusCode, result, exception.StackTrace.ToString())
+                   : new ApiException(context.Response.StatusCode);
+            
+            var options = new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase };
+
+            var json = JsonSerializer.Serialize(response, options);
+
+            return context.Response.WriteAsync(json);
         }
     }
 }

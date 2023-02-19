@@ -25,6 +25,7 @@ namespace FarmManagement.Persistence.Configurations
             builder.Property(p => p.LastPurchasedPrice).HasPrecision(9, 2);
 
             // Default Value
+            builder.Property(p => p.Id).HasDefaultValueSql("newid()");
             builder.Property(p => p.DateCreated).HasDefaultValueSql("getdate()");
             builder.Property(p => p.DateModified).HasDefaultValueSql("getdate()");
         }

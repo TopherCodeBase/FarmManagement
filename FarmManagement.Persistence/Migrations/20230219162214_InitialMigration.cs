@@ -42,7 +42,7 @@ namespace FarmManagement.Persistence.Migrations
                 name: "SiteMasters",
                 columns: table => new
                 {
-                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false, defaultValueSql: "newid()"),
                     SiteCode = table.Column<string>(type: "nvarchar(20)", nullable: false),
                     SiteName = table.Column<string>(type: "nvarchar(50)", nullable: false),
                     Street = table.Column<string>(type: "nvarchar(50)", nullable: true),
@@ -64,7 +64,7 @@ namespace FarmManagement.Persistence.Migrations
                 name: "ItemMasters",
                 columns: table => new
                 {
-                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false, defaultValueSql: "newid()"),
                     ItemNo = table.Column<string>(type: "nvarchar(20)", nullable: false),
                     Description = table.Column<string>(type: "nvarchar(50)", nullable: false),
                     ItemType = table.Column<string>(type: "nvarchar(20)", nullable: false),
@@ -113,7 +113,7 @@ namespace FarmManagement.Persistence.Migrations
                 name: "MaterialMasters",
                 columns: table => new
                 {
-                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
+                    Id = table.Column<Guid>(type: "uniqueidentifier", nullable: false, defaultValueSql: "newid()"),
                     Quantity = table.Column<decimal>(type: "decimal(12,4)", precision: 12, scale: 4, nullable: false),
                     Reference = table.Column<string>(type: "nvarchar(20)", nullable: true),
                     Notes = table.Column<string>(type: "nvarchar(200)", nullable: true),

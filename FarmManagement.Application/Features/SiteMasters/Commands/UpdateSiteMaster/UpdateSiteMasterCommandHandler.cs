@@ -14,9 +14,9 @@ namespace FarmManagement.Application.Features.SiteMasters.Commands.UpdateSiteMas
 {
     public class UpdateSiteMasterCommandHandler : IRequestHandler<UpdateSiteMasterCommand,BaseResponse>
     {
-        private readonly IBaseRepository<SiteMaster> _siteMasterRepository;
+        private readonly ISiteMasterRepository _siteMasterRepository;
         private readonly IMapper _mapper;
-        public UpdateSiteMasterCommandHandler(IBaseRepository<SiteMaster> siteMasterRepository, IMapper mapper)
+        public UpdateSiteMasterCommandHandler(ISiteMasterRepository siteMasterRepository, IMapper mapper)
         {
             _siteMasterRepository = siteMasterRepository;
             _mapper = mapper;
@@ -33,7 +33,7 @@ namespace FarmManagement.Application.Features.SiteMasters.Commands.UpdateSiteMas
                 throw new NotFoundException(nameof(SiteMaster), request.Id);
             }
 
-            var validator = new UpdateSiteMasterCommandValidator();
+            var validator = new UpdateSiteMasterCommandValidator(_siteMasterRepository);
             var validationResult = await validator.ValidateAsync(request);
 
             if (validationResult.Errors.Count > 0)

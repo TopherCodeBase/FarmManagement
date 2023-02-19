@@ -13,9 +13,9 @@ namespace FarmManagement.Application.Features.SiteMasters.Commands.CreateSiteMas
 {
     public class CreateSiteMasterCommandHandler : IRequestHandler<CreateSiteMasterCommand,BaseResponse>
     {
-        private readonly IBaseRepository<SiteMaster> _siteMasterRepository;
+        private readonly ISiteMasterRepository _siteMasterRepository;
         private readonly IMapper _mapper;
-        public CreateSiteMasterCommandHandler(IBaseRepository<SiteMaster> siteMasterRepository,IMapper mapper)
+        public CreateSiteMasterCommandHandler(ISiteMasterRepository siteMasterRepository,IMapper mapper)
         {
             _siteMasterRepository = siteMasterRepository;
             _mapper = mapper;   
@@ -25,7 +25,7 @@ namespace FarmManagement.Application.Features.SiteMasters.Commands.CreateSiteMas
         {
             var createSiteMasterCommandResponse = new BaseResponse();
 
-            var validator = new CreateSiteMasterCommandValidator();
+            var validator = new CreateSiteMasterCommandValidator(_siteMasterRepository);
             var validationResult = await validator.ValidateAsync(request);
 
             if(validationResult.Errors.Count > 0)

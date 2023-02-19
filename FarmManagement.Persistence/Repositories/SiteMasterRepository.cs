@@ -14,5 +14,11 @@ namespace FarmManagement.Persistence.Repositories
         {
 
         }
+
+        public Task<bool> IsSiteCodeUnique(string siteCode)
+        {
+            var result = !_dbContext.SiteMasters.Any(x => x.SiteCode == siteCode);
+            return Task.FromResult(result);
+        }
     }
 }

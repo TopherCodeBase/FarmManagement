@@ -8,8 +8,11 @@ using FarmManagement.Application.Features.MaterialMasters.Commands.CreateMateria
 using FarmManagement.Application.Features.MaterialMasters.Commands.UpdateMaterialMaster;
 using FarmManagement.Application.Features.MaterialMasters.Queries.GetMaterialMasterDetail;
 using FarmManagement.Application.Features.MaterialMasters.Queries.GetMaterialMasterList;
+using FarmManagement.Application.Features.Province.Queries.GetProvincesList;
 using FarmManagement.Application.Features.SiteMasters.Commands.CreateSiteMaster;
 using FarmManagement.Application.Features.SiteMasters.Commands.UpdateSiteMaster;
+using FarmManagement.Application.Features.SiteMasters.Queries.GetSiteMasterDetail;
+using FarmManagement.Application.Features.SiteMasters.Queries.GetSiteMastersList;
 using FarmManagement.Domain.Entitites;
 
 namespace FarmManagement.Application.Profiles
@@ -21,6 +24,8 @@ namespace FarmManagement.Application.Profiles
             // SiteMaster
             CreateMap<SiteMaster, CreateSiteMasterCommand>().ReverseMap();
             CreateMap<SiteMaster, UpdateSiteMasterCommand>().ReverseMap();
+            CreateMap<SiteMaster, SiteMasterDetailVm>().ReverseMap();
+            CreateMap<SiteMaster, SiteMasterListVm>().ReverseMap();
 
             // City
             CreateMap<City, CityVm>().ReverseMap();
@@ -54,6 +59,10 @@ namespace FarmManagement.Application.Profiles
                 .ForMember(d => d.ItemType, o => o.MapFrom(s => s.ItemMaster.ItemType))
                 .ForMember(d => d.ItemUnitOfMeasure, o => o.MapFrom(s => s.ItemMaster.UnitOfMeasure))
                 .ReverseMap();
+
+            // Province
+            CreateMap<Province, ProvinceVm>().ReverseMap();
+
         }
     }
 }

@@ -18,8 +18,4 @@
     <ProjectReference Include="..\FarmManagement.Domain\FarmManagement.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Features\SiteMasters\Queries\" />
-  </ItemGroup>
-
 </Project>

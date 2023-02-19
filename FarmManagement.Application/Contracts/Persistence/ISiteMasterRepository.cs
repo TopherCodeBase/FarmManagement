@@ -9,5 +9,6 @@ namespace FarmManagement.Application.Contracts.Persistence
 {
     public interface ISiteMasterRepository : IBaseRepository<SiteMaster>
     {
+        Task<bool> IsSiteCodeUnique(string siteCode);
     }
 }
