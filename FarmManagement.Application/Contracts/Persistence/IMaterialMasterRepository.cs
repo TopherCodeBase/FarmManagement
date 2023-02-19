@@ -10,6 +10,6 @@ namespace FarmManagement.Application.Contracts.Persistence
     public interface IMaterialMasterRepository : IBaseRepository<MaterialMaster>
     {
         Task<IReadOnlyList<MaterialMaster>> ListAllBySiteIdAsync(Guid siteId);
-        Task<IReadOnlyList<MaterialMaster>> SearchAsync(string query, Guid? siteId);
+        Task<IReadOnlyList<MaterialMaster>> SearchAsync(string query, Guid siteId);
     }
 }

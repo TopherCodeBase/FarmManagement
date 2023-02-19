@@ -24,7 +24,7 @@ namespace FarmManagement.Persistence.Repositories
                                                     .ToListAsync();
         }
 
-        public async Task<IReadOnlyList<MaterialMaster>> SearchAsync(string query, Guid? siteId)
+        public async Task<IReadOnlyList<MaterialMaster>> SearchAsync(string query, Guid siteId)
         {
             return await this._dbContext.MaterialMasters.Include(x => x.SiteMaster)
                                                     .Include(x => x.ItemMaster)
@@ -33,7 +33,7 @@ namespace FarmManagement.Persistence.Repositories
                                                                 x.ItemMaster.ItemNo.Contains(query) ||
                                                                 x.ItemMaster.ItemType.Contains(query) ||
                                                                 x.SiteMaster.SiteCode.Contains(query)) &&
-                                                                (siteId == null || x.SiteId == siteId)
+                                                                (siteId == Guid.Empty || x.SiteId == siteId)
                                                                 )
                                                     .ToListAsync();
         }

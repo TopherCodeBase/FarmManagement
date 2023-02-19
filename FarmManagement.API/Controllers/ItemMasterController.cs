@@ -26,7 +26,7 @@ namespace FarmManagement.API.Controllers
             return Ok(dtos);
         }
 
-        [HttpGet("{id}", Name = "GetEventById")]
+        [HttpGet("{id}", Name = "GetItemMasterById")]
         public async Task<ActionResult<ItemMasterDetailVm>> GetItemMasterById(Guid id)
         {
             var getItemMasterDetailQuery = new GetItemMasterDetailQuery() { Id = id };
