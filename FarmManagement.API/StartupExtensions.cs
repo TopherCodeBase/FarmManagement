@@ -1,5 +1,7 @@
-﻿using FarmManagement.Application;
+﻿using FarmManagement.API.Middleware;
+using FarmManagement.Application;
 using FarmManagement.Persistence;
+using Microsoft.EntityFrameworkCore;
 
 namespace FarmManagement.API
 {
@@ -35,6 +37,10 @@ namespace FarmManagement.API
 
             app.UseHttpsRedirection();
 
+            //app.UseAuthentication();
+
+            app.UseCustomExceptionHandler();
+
             app.UseCors("Open");
 
             app.UseAuthorization();
@@ -42,6 +48,28 @@ namespace FarmManagement.API
             app.MapControllers();
 
             return app;
+        }
+
+        public static async Task ApplyMigrationAndSeedData(this WebApplication app,WebApplicationBuilder builder)
+        {
+            using (var scope = app.Services.CreateScope())
+            {
+                var services = scope.ServiceProvider;
+                var loggerFactory = services.GetRequiredService<ILoggerFactory>();
+                try
+                {
+                    var context = services.GetRequiredService<AppDbContext>();
+                    // Automatic Database Migration
+                    await context.Database.MigrateAsync();
+                    // Apply Initial Data Seed
+                    await AppDbContextSeed.SeedAsync(context, loggerFactory, builder.Configuration);
+                }
+                catch (Exception ex)
+                {
+                    var logger = loggerFactory.CreateLogger<Program>();
+                    logger.LogError(ex, "An error occured during migration");
+                }
+            }
         }
     }
 }

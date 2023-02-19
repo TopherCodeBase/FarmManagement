@@ -6,4 +6,6 @@ var app = builder
     .ConfigureServices()
     .ConfigurePipeline();
 
+await app.ApplyMigrationAndSeedData(builder);
+
 app.Run();
