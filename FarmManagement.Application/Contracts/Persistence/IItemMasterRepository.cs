@@ -9,5 +9,6 @@ namespace FarmManagement.Application.Contracts.Persistence
 {
     public interface IItemMasterRepository : IBaseRepository<ItemMaster>
     {
+        Task<bool> IsSiteExists(Guid Id);
     }
 }

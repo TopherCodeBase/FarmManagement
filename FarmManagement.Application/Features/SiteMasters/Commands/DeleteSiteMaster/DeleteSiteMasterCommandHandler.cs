@@ -14,11 +14,9 @@ namespace FarmManagement.Application.Features.SiteMasters.Commands.DeleteSiteMas
     public class DeleteSiteMasterCommandHandler : IRequestHandler<DeleteSiteMasterCommand>
     {
         private readonly IBaseRepository<SiteMaster> _siteMasterRepository;
-        private readonly IMapper _mapper;
-        public DeleteSiteMasterCommandHandler(IBaseRepository<SiteMaster> siteMasterRepository, IMapper mapper)
+        public DeleteSiteMasterCommandHandler(IBaseRepository<SiteMaster> siteMasterRepository)
         {
             _siteMasterRepository = siteMasterRepository;
-            _mapper = mapper;
         }
 
         public async Task<Unit> Handle(DeleteSiteMasterCommand request, CancellationToken cancellationToken)

@@ -26,7 +26,7 @@ namespace FarmManagement.Persistence.Repositories
             return t;
         }
 
-        public async Task<IReadOnlyList<T>> ListAllAsync()
+        public virtual async Task<IReadOnlyList<T>> ListAllAsync()
         {
             return await _dbContext.Set<T>().ToListAsync();
         }
