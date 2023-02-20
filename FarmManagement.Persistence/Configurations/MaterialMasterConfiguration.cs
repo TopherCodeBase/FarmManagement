@@ -31,6 +31,7 @@ namespace FarmManagement.Persistence.Configurations
             builder.Property(p => p.DateCreated).HasDefaultValueSql("getdate()");
             builder.Property(p => p.DateModified).HasDefaultValueSql("getdate()");
 
+            // Concrete Relationship
             builder.HasOne(x => x.SiteMaster)
                 .WithMany(x => x.MaterialMasters)
                 .HasForeignKey(x => x.SiteId)

@@ -9,5 +9,6 @@ namespace FarmManagement.Application.Contracts.Persistence
 {
     public interface IUomRepository : IBaseRepository<UOM>
     {
+        Task<IReadOnlyList<UOM>> ListAllBySiteAsync(Guid siteId);
     }
 }

@@ -28,7 +28,15 @@ namespace FarmManagement.Persistence.Repositories
 
         public virtual async Task<IReadOnlyList<T>> ListAllAsync()
         {
-            return await _dbContext.Set<T>().ToListAsync();
+            try
+            {
+                return await _dbContext.Set<T>().ToListAsync();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            
         }
 
         public async virtual Task<IReadOnlyList<T>> GetPagedReponseAsync(int page, int size)

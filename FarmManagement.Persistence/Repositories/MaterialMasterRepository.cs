@@ -15,6 +15,12 @@ namespace FarmManagement.Persistence.Repositories
         {
 
         }
+        public override async Task<IReadOnlyList<MaterialMaster>> ListAllAsync()
+        {
+            return await this._dbContext.MaterialMasters.Include(x => x.SiteMaster)
+                                                        .Include(x => x.ItemMaster)
+                                                        .ToListAsync();
+        }
 
         public async Task<IReadOnlyList<MaterialMaster>> ListAllBySiteIdAsync(Guid siteId)
         {

@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FarmManagement.Persistence.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20230219162214_InitialMigration")]
+    [Migration("20230220175320_InitialMigration")]
     partial class InitialMigration
     {
         /// <inheritdoc />
@@ -85,9 +85,6 @@ namespace FarmManagement.Persistence.Migrations
                     b.Property<Guid>("SiteId")
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<Guid>("SiteMasterId")
-                        .HasColumnType("uniqueidentifier");
-
                     b.Property<string>("UnitOfMeasure")
                         .IsRequired()
                         .HasColumnType("nvarchar(10)");
@@ -98,7 +95,7 @@ namespace FarmManagement.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("SiteMasterId");
+                    b.HasIndex("SiteId");
 
                     b.ToTable("ItemMasters");
                 });
@@ -244,15 +241,13 @@ namespace FarmManagement.Persistence.Migrations
                     b.Property<Guid>("SiteId")
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<Guid>("SiteMasterId")
-                        .HasColumnType("uniqueidentifier");
-
                     b.Property<string>("UnitOfMeasure")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("SiteMasterId");
+                    b.HasIndex("SiteId");
 
                     b.ToTable("UOMs");
                 });
@@ -261,7 +256,7 @@ namespace FarmManagement.Persistence.Migrations
                 {
                     b.HasOne("FarmManagement.Domain.Entitites.SiteMaster", "SiteMaster")
                         .WithMany("ItemMasters")
-                        .HasForeignKey("SiteMasterId")
+                        .HasForeignKey("SiteId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -291,7 +286,7 @@ namespace FarmManagement.Persistence.Migrations
                 {
                     b.HasOne("FarmManagement.Domain.Entitites.SiteMaster", "SiteMaster")
                         .WithMany("UOMs")
-                        .HasForeignKey("SiteMasterId")
+                        .HasForeignKey("SiteId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

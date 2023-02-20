@@ -1,5 +1,6 @@
 ﻿using FarmManagement.Application.Contracts.Persistence;
 using FarmManagement.Domain.Entitites;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,12 @@ namespace FarmManagement.Persistence.Repositories
         public UomRepository(AppDbContext dbContext) : base(dbContext)
         {
 
+        }
+
+        public async Task<IReadOnlyList<UOM>> ListAllBySiteAsync(Guid siteId)
+        {
+            var uoms = await this._dbContext.UOMs.Where(x => x.SiteId == siteId).ToListAsync();
+            return uoms;
         }
     }
 }

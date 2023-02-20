@@ -74,15 +74,14 @@ namespace FarmManagement.Persistence.Migrations
                     LastPurchasedPrice = table.Column<decimal>(type: "decimal(9,2)", precision: 9, scale: 2, nullable: false),
                     DateCreated = table.Column<DateTime>(type: "datetime2", nullable: true, defaultValueSql: "getdate()"),
                     DateModified = table.Column<DateTime>(type: "datetime2", nullable: true, defaultValueSql: "getdate()"),
-                    SiteId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
-                    SiteMasterId = table.Column<Guid>(type: "uniqueidentifier", nullable: false)
+                    SiteId = table.Column<Guid>(type: "uniqueidentifier", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_ItemMasters", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_ItemMasters_SiteMasters_SiteMasterId",
-                        column: x => x.SiteMasterId,
+                        name: "FK_ItemMasters_SiteMasters_SiteId",
+                        column: x => x.SiteId,
                         principalTable: "SiteMasters",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -94,16 +93,15 @@ namespace FarmManagement.Persistence.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    UnitOfMeasure = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    SiteId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
-                    SiteMasterId = table.Column<Guid>(type: "uniqueidentifier", nullable: false)
+                    UnitOfMeasure = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    SiteId = table.Column<Guid>(type: "uniqueidentifier", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_UOMs", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_UOMs_SiteMasters_SiteMasterId",
-                        column: x => x.SiteMasterId,
+                        name: "FK_UOMs_SiteMasters_SiteId",
+                        column: x => x.SiteId,
                         principalTable: "SiteMasters",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -143,9 +141,9 @@ namespace FarmManagement.Persistence.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_ItemMasters_SiteMasterId",
+                name: "IX_ItemMasters_SiteId",
                 table: "ItemMasters",
-                column: "SiteMasterId");
+                column: "SiteId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_MaterialMasters_ItemId",
@@ -164,9 +162,9 @@ namespace FarmManagement.Persistence.Migrations
                 unique: true);
 
             migrationBuilder.CreateIndex(
-                name: "IX_UOMs_SiteMasterId",
+                name: "IX_UOMs_SiteId",
                 table: "UOMs",
-                column: "SiteMasterId");
+                column: "SiteId");
         }
 
         /// <inheritdoc />
